@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi There, Welcome to my Github profile!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I+am+Thomas;A+computer+sciences+student;who+Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00BABC&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I+am+Thomas;A+computer+sciences+student;who+Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -74,6 +74,28 @@
   <br/>
   </p>
 <br/>
+
+
+
+
+
+
+
+
+
+<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 links : fiverr
