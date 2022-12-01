@@ -37,13 +37,13 @@
 </div>
 
 - **Languages**:
-	
+	<!---
 	<div>
 	<img height="32" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" />
 	<img height="32" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />
 	<img height="32" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" />
 	</div>
-	
+	--->
 	<p>
 	  <a href="https://skillicons.dev">	
 		<img height="32"src="https://skillicons.dev/icons?i=c,python,java&theme=light" />
@@ -54,12 +54,12 @@
 
 
 - **Softwares and Tools**:
-	
+	<!---
 	<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" />
 	<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
 	<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />
 	<img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" />
-	
+	--->
 	<p>
 	  <a href="https://skillicons.dev">	
 		<img height="32"src="https://skillicons.dev/icons?i=vscode,vim,git,unity&theme=light" />
