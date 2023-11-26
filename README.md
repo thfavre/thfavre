@@ -16,8 +16,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width = 142px></picture>
-
 <div style="line-height:150%;">
     <br>
 </div>
@@ -46,7 +44,7 @@
 	--->
 	<p>
 	  <a href="https://skillicons.dev">	
-		<img height="32"src="https://skillicons.dev/icons?i=c,python,java&theme=light" />
+		<img height="32"src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=light" />
 	  </a>
 	</p>
 
@@ -62,7 +60,7 @@
 	--->
 	<p>
 	  <a href="https://skillicons.dev">	
-		<img height="32"src="https://skillicons.dev/icons?i=vscode,vim,git,unity&theme=light" />
+		<img height="32"src="https://skillicons.dev/icons?i=vscode,git,unity&theme=light" />
 	  </a>
 	</p>	
 	
