@@ -21,7 +21,7 @@
 </div>
 
 - Currently studying at [42 Lausanne](https://www.42lausanne.ch/)
-- 
+- AI enthusiast
 - 
 
 
