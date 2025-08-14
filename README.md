@@ -21,8 +21,10 @@
 </div>
 
 - Currently studying at [42 Lausanne](https://www.42lausanne.ch/)
+- Doing an **internship at [DETECTRA](https://atreon.ch/our-solutions/)**, a remote monitoring system for inflammatory arthritis
+
 - AI enthusiast
-- 
+- Passionate about **climbing**
 
 
 <br><br>
